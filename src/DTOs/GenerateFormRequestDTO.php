@@ -1,6 +1,6 @@
 <?php
 
-namespace Sindor\LaravelGii\DTOs;
+namespace muyilongh\LaravelGii\DTOs;
 
 use Illuminate\Http\Request;
 

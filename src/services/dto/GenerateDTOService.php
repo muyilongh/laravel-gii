@@ -1,10 +1,10 @@
 <?php
 
-namespace Sindor\LaravelGii\services\dto;
+namespace muyilongh\LaravelGii\services\dto;
 
-use Sindor\LaravelGii\DTOs\GenerateDTO;
-use Sindor\LaravelGii\helpers\DTO;
-use Sindor\LaravelGii\helpers\Universal;
+use muyilongh\LaravelGii\DTOs\GenerateDTO;
+use muyilongh\LaravelGii\helpers\DTO;
+use muyilongh\LaravelGii\helpers\Universal;
 
 class GenerateDTOService
 {

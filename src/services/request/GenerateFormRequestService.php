@@ -1,10 +1,10 @@
 <?php
 
-namespace Sindor\LaravelGii\services\request;
+namespace muyilongh\LaravelGii\services\request;
 
-use Sindor\LaravelGii\DTOs\GenerateFormRequestDTO;
-use Sindor\LaravelGii\helpers\Request;
-use Sindor\LaravelGii\helpers\Universal;
+use muyilongh\LaravelGii\DTOs\GenerateFormRequestDTO;
+use muyilongh\LaravelGii\helpers\Request;
+use muyilongh\LaravelGii\helpers\Universal;
 
 class GenerateFormRequestService
 {

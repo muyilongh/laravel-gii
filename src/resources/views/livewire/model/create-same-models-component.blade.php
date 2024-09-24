@@ -1,4 +1,4 @@
-@php use Sindor\LaravelGii\helpers\Data; @endphp
+@php use muyilongh\LaravelGii\helpers\Data; @endphp
 <form wire:submit="check" action="{{ route('generate-models-same-namespace') }}" method="POST"
       xmlns:wire="http://www.w3.org/1999/xhtml">
     @csrf

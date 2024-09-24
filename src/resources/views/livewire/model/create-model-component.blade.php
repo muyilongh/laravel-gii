@@ -1,4 +1,4 @@
-@php use Sindor\LaravelGii\helpers\Data; @endphp
+@php use muyilongh\LaravelGii\helpers\Data; @endphp
 
 <div class="row mt-2">
     <div class="col-md-8">

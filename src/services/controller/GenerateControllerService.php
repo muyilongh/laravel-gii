@@ -1,10 +1,10 @@
 <?php
 
-namespace Sindor\LaravelGii\services\controller;
+namespace muyilongh\LaravelGii\services\controller;
 
-use Sindor\LaravelGii\DTOs\GenerateControllerDTO;
-use Sindor\LaravelGii\helpers\Controller;
-use Sindor\LaravelGii\helpers\Universal;
+use muyilongh\LaravelGii\DTOs\GenerateControllerDTO;
+use muyilongh\LaravelGii\helpers\Controller;
+use muyilongh\LaravelGii\helpers\Universal;
 
 class GenerateControllerService
 {

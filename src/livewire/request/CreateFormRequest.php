@@ -1,6 +1,6 @@
 <?php
 
-namespace Sindor\LaravelGii\livewire\request;
+namespace muyilongh\LaravelGii\livewire\request;
 
 use Livewire\Component;
 

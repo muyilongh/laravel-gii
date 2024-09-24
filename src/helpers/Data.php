@@ -1,6 +1,6 @@
 <?php
 
-namespace Sindor\LaravelGii\helpers;
+namespace muyilongh\LaravelGii\helpers;
 
 use Doctrine\DBAL\Schema\Column;
 use Illuminate\Support\Facades\DB;

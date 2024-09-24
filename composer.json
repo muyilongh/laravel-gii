@@ -1,7 +1,7 @@
 {
     "name": "muyilongh/laravel-gii",
     "description": "Gii module for Laravel",
-    "keywords": ["laravel","laravel-gii","sindor-laravel","sindor-gii","gii","code generator","generator","easy-code"],
+    "keywords": ["laravel","laravel-gii","muyilongh-laravel","muyilongh-gii","gii","code generator","generator","easy-code"],
     "minimum-stability": "dev",
     "license": "MIT",
     "authors": [
@@ -18,13 +18,13 @@
     },
     "autoload": {
         "psr-4": {
-            "Sindor\\LaravelGii\\": "src"
+            "muyilongh\\LaravelGii\\": "src"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Sindor\\LaravelGii\\providers\\PackageServiceProvider"
+                "muyilongh\\LaravelGii\\providers\\PackageServiceProvider"
             ]
         }
     }

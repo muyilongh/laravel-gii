@@ -1,10 +1,10 @@
 <?php
 
-namespace Sindor\LaravelGii\services\model;
+namespace muyilongh\LaravelGii\services\model;
 
-use Sindor\LaravelGii\DTOs\GenerateModelDTO;
-use Sindor\LaravelGii\helpers\Model;
-use Sindor\LaravelGii\helpers\Universal;
+use muyilongh\LaravelGii\DTOs\GenerateModelDTO;
+use muyilongh\LaravelGii\helpers\Model;
+use muyilongh\LaravelGii\helpers\Universal;
 
 class GenerateModelService
 {

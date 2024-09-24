@@ -1,14 +1,14 @@
 <?php
 
-namespace Sindor\LaravelGii\services\model;
+namespace muyilongh\LaravelGii\services\model;
 
 use Illuminate\Support\Facades\File;
-use Sindor\LaravelGii\DTOs\GenerateControllerDTO;
-use Sindor\LaravelGii\DTOs\GenerateSameModelsDTO;
-use Sindor\LaravelGii\helpers\Data;
-use Sindor\LaravelGii\helpers\Generator;
-use Sindor\LaravelGii\helpers\Universal;
-use Sindor\LaravelGii\services\controller\GenerateResourceControllerService;
+use muyilongh\LaravelGii\DTOs\GenerateControllerDTO;
+use muyilongh\LaravelGii\DTOs\GenerateSameModelsDTO;
+use muyilongh\LaravelGii\helpers\Data;
+use muyilongh\LaravelGii\helpers\Generator;
+use muyilongh\LaravelGii\helpers\Universal;
+use muyilongh\LaravelGii\services\controller\GenerateResourceControllerService;
 
 class GenerateSameModelsService
 {

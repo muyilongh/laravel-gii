@@ -1,6 +1,6 @@
 <?php
 
-namespace Sindor\LaravelGii\livewire\dto;
+namespace muyilongh\LaravelGii\livewire\dto;
 
 use Illuminate\Contracts\Foundation\Application;
 use Illuminate\Contracts\View\Factory;

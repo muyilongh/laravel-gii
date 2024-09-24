@@ -1,6 +1,6 @@
 <?php
 
-namespace Sindor\LaravelGii\controllers;
+namespace muyilongh\LaravelGii\controllers;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Contracts\Foundation\Application;

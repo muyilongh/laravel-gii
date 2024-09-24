@@ -3,7 +3,7 @@
 use Illuminate\Support\Facades\Route;
 
 Route::group([
-    'namespace' => 'Sindor\LaravelGii\controllers',
+    'namespace' => 'muyilongh\LaravelGii\controllers',
     'prefix' => 'gii',
 ], function () {
 

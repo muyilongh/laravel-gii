@@ -1,6 +1,6 @@
 <?php
 
-namespace Sindor\LaravelGii\helpers;
+namespace muyilongh\LaravelGii\helpers;
 
 use Illuminate\Support\Pluralizer;
 

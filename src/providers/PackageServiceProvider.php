@@ -1,15 +1,15 @@
 <?php
 
-namespace Sindor\LaravelGii\providers;
+namespace muyilongh\LaravelGii\providers;
 
 use Illuminate\Support\ServiceProvider;
 use Livewire\Livewire;
-use Sindor\LaravelGii\livewire\controller\CreateControllerComponent;
-use Sindor\LaravelGii\livewire\dto\CreateDTOComponent;
-use Sindor\LaravelGii\livewire\model\CreateModelComponent;
-use Sindor\LaravelGii\livewire\model\CreateModelsSameNamespace;
-use Sindor\LaravelGii\livewire\model\GenerateModelPage;
-use Sindor\LaravelGii\livewire\request\CreateFormRequest;
+use muyilongh\LaravelGii\livewire\controller\CreateControllerComponent;
+use muyilongh\LaravelGii\livewire\dto\CreateDTOComponent;
+use muyilongh\LaravelGii\livewire\model\CreateModelComponent;
+use muyilongh\LaravelGii\livewire\model\CreateModelsSameNamespace;
+use muyilongh\LaravelGii\livewire\model\GenerateModelPage;
+use muyilongh\LaravelGii\livewire\request\CreateFormRequest;
 
 class PackageServiceProvider extends ServiceProvider
 {

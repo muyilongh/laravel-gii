@@ -1,13 +1,13 @@
 <?php
 
-namespace Sindor\LaravelGii\livewire\model;
+namespace muyilongh\LaravelGii\livewire\model;
 
 use Illuminate\Contracts\Foundation\Application;
 use Illuminate\Contracts\View\Factory;
 use Illuminate\Contracts\View\View;
 use Illuminate\Foundation\Application as FoundApplication;
 use Livewire\Component;
-use Sindor\LaravelGii\helpers\Generator;
+use muyilongh\LaravelGii\helpers\Generator;
 
 class CreateModelsSameNamespace extends Component
 {

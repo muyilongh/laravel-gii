@@ -1,6 +1,6 @@
 <?php
 
-namespace Sindor\LaravelGii\controllers;
+namespace muyilongh\LaravelGii\controllers;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Contracts\Foundation\Application;
@@ -9,17 +9,17 @@ use Illuminate\Contracts\View\View;
 use Illuminate\Http\RedirectResponse;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\DB;
-use Sindor\LaravelGii\DTOs\GenerateControllerDTO;
-use Sindor\LaravelGii\DTOs\GenerateDTO;
-use Sindor\LaravelGii\DTOs\GenerateFormRequestDTO;
-use Sindor\LaravelGii\DTOs\GenerateModelDTO;
-use Sindor\LaravelGii\DTOs\GenerateSameModelsDTO;
-use Sindor\LaravelGii\helpers\Data;
-use Sindor\LaravelGii\services\controller\GenerateControllerService;
-use Sindor\LaravelGii\services\dto\GenerateDTOService;
-use Sindor\LaravelGii\services\model\GenerateModelService;
-use Sindor\LaravelGii\services\model\GenerateSameModelsService;
-use Sindor\LaravelGii\services\request\GenerateFormRequestService;
+use muyilongh\LaravelGii\DTOs\GenerateControllerDTO;
+use muyilongh\LaravelGii\DTOs\GenerateDTO;
+use muyilongh\LaravelGii\DTOs\GenerateFormRequestDTO;
+use muyilongh\LaravelGii\DTOs\GenerateModelDTO;
+use muyilongh\LaravelGii\DTOs\GenerateSameModelsDTO;
+use muyilongh\LaravelGii\helpers\Data;
+use muyilongh\LaravelGii\services\controller\GenerateControllerService;
+use muyilongh\LaravelGii\services\dto\GenerateDTOService;
+use muyilongh\LaravelGii\services\model\GenerateModelService;
+use muyilongh\LaravelGii\services\model\GenerateSameModelsService;
+use muyilongh\LaravelGii\services\request\GenerateFormRequestService;
 
 class ModelController extends Controller
 {
