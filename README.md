@@ -7,7 +7,7 @@ powerfull UI web interface for generating code (model, controller .. ) in Larave
 **1. Install package to your laravel project**
 
 ```bash
-composer require sindor/laravel-gii:dev-main
+composer require muyilongh/laravel-gii:dev-main
 ```
 
 **2. Migrate your migrations (if you did not have DB tables)**
