@@ -1,19 +1,19 @@
 {
-    "name": "sindor/laravel-gii",
+    "name": "muyilongh/laravel-gii",
     "description": "Gii module for Laravel",
     "keywords": ["laravel","laravel-gii","sindor-laravel","sindor-gii","gii","code generator","generator","easy-code"],
     "minimum-stability": "dev",
     "license": "MIT",
     "authors": [
         {
-            "name": "Sindor Suyunov",
-            "email": "sindorsuyunov92@gmail.com"
+            "name": "xxx",
+            "email": "136899978@qq.com"
         }
     ],
     "require": {
         "php": "^8.1",
         "doctrine/dbal": "^3.6",
-        "laravel/framework": "^11",
+        "laravel/framework": "^11.9",
         "livewire/livewire": "^2"
     },
     "autoload": {
