@@ -1,8 +1,9 @@
 {
     "name": "muyilongh/laravel-gii",
     "description": "Gii module for Laravel",
-    "keywords": ["laravel","laravel-gii","muyilongh-laravel","muyilongh-gii","gii","code generator","generator","easy-code"],
+    "keywords": ["laravel", "laravel-gii", "muyilongh-laravel", "muyilongh-gii", "gii", "code generator", "generator", "easy-code"],
     "minimum-stability": "dev",
+    "prefer-stable": true,
     "license": "MIT",
     "authors": [
         {
